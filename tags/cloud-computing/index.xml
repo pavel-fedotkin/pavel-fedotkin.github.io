@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Computing | Мой сайт</title>
+    <link>https://pavel-fedotkin.github.io/tags/cloud-computing/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cloud Computing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Cloud Computing</title>
+      <link>https://pavel-fedotkin.github.io/tags/cloud-computing/</link>
+    </image>
+    
+    <item>
+      <title>Облачные вычисления</title>
+      <link>https://pavel-fedotkin.github.io/publication/05/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/publication/05/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Облачные вычисления стали одной из ключевых технологий в развитии информационной инфраструктуры. Они позволяют организациям и отдельным пользователям получать доступ к вычислительным ресурсам, хранилищам данных и программному обеспечению через интернет.&lt;/p&gt;
+&lt;h2 id=&#34;модели-облачных-сервисов&#34;&gt;Модели облачных сервисов&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IaaS (Infrastructure as a Service)&lt;/strong&gt; — предоставляет виртуализированные вычислительные мощности, сети и хранилища.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PaaS (Platform as a Service)&lt;/strong&gt; — предлагает готовую платформу для разработки и развертывания приложений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SaaS (Software as a Service)&lt;/strong&gt; — обеспечивает доступ к программному обеспечению по модели подписки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;преимущества&#34;&gt;Преимущества&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Масштабируемость и гибкость ресурсов.&lt;/li&gt;
+&lt;li&gt;Снижение затрат на инфраструктуру и её обслуживание.&lt;/li&gt;
+&lt;li&gt;Доступность сервисов из любой точки мира.&lt;/li&gt;
+&lt;li&gt;Поддержка коллективной работы и интеграции систем.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;вызовы-и-риски&#34;&gt;Вызовы и риски&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Обеспечение безопасности и конфиденциальности данных.&lt;/li&gt;
+&lt;li&gt;Зависимость от интернет-соединения и провайдера услуг.&lt;/li&gt;
+&lt;li&gt;Вопросы соответствия законодательству и стандартам.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Облачные вычисления трансформируют подход к управлению IT-инфраструктурой и бизнес-процессами. Эта технология продолжает развиваться, открывая новые возможности для науки, образования и коммерческого сектора. Владение знаниями в области облачных решений становится необходимым навыком для специалистов в IT и смежных областях.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

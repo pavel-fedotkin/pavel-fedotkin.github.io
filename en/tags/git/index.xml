@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git | My Site</title>
+    <link>https://pavel-fedotkin.github.io/en/tags/git/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/en/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>Git</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Git</title>
+      <link>https://pavel-fedotkin.github.io/en/tags/git/</link>
+    </image>
+    
+    <item>
+      <title>Version Control</title>
+      <link>https://pavel-fedotkin.github.io/en/publication/01/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Version control is a fundamental tool in modern software development. Version Control Systems (VCS) allow developers to track changes in code, coordinate teamwork, and maintain a full project history.&lt;/p&gt;
+&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repository&lt;/strong&gt; — a storage location containing the code and its full history of changes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commit&lt;/strong&gt; — a recorded change in the codebase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branching&lt;/strong&gt; — a mechanism of parallel development that enables the creation of independent lines of work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Merging&lt;/strong&gt; — the process of combining changes from different branches.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;popular-tools&#34;&gt;Popular Tools&lt;/h2&gt;
+&lt;p&gt;The most widely used version control system today is &lt;strong&gt;Git&lt;/strong&gt;, often paired with platforms like GitHub, GitLab, and Bitbucket. Other systems, such as Subversion (SVN) and Mercurial, are less common but still used in some projects.&lt;/p&gt;
+&lt;h2 id=&#34;advantages-of-vcs&#34;&gt;Advantages of VCS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ability to restore previous versions of a project.&lt;/li&gt;
+&lt;li&gt;Support for teamwork and parallel development.&lt;/li&gt;
+&lt;li&gt;Tracking of change history and authorship.&lt;/li&gt;
+&lt;li&gt;Simplification of integration and deployment processes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Version control systems have become an essential element of software engineering. Their use ensures development reliability, process transparency, and effective team collaboration. Proficiency with tools like Git is a vital skill for every developer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

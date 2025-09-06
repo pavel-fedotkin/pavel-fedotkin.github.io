@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio | Мой сайт</title>
+    <link>https://pavel-fedotkin.github.io/tags/portfolio/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Portfolio</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Portfolio</title>
+      <link>https://pavel-fedotkin.github.io/tags/portfolio/</link>
+    </image>
+    
+    <item>
+      <title>Личный сайт учёного с Hugo Academic</title>
+      <link>https://pavel-fedotkin.github.io/project/hugo/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Современным исследователям важно не только публиковать результаты своих работ, но и представлять их в доступной и структурированной форме. Одним из удобных инструментов для создания персонального академического сайта является &lt;strong&gt;Hugo Academic&lt;/strong&gt;. Этот фреймворк позволяет собрать профессиональное портфолио, включающее публикации, проекты, резюме и блог.&lt;/p&gt;
+&lt;h2 id=&#34;основные-преимущества&#34;&gt;Основные преимущества&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Простота развертывания и настройки.&lt;/li&gt;
+&lt;li&gt;Поддержка Markdown для удобного форматирования контента.&lt;/li&gt;
+&lt;li&gt;Возможность интеграции с Google Scholar, ORCID, ResearchGate и другими академическими сервисами.&lt;/li&gt;
+&lt;li&gt;Широкие возможности кастомизации внешнего вида.&lt;/li&gt;
+&lt;li&gt;Поддержка публикации статей, новостей и учебных материалов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;этапы-создания&#34;&gt;Этапы создания&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Установить Hugo и загрузить тему Academic.&lt;/li&gt;
+&lt;li&gt;Настроить структуру проекта: папки для постов, публикаций, проектов и страниц.&lt;/li&gt;
+&lt;li&gt;Добавить личную информацию, список публикаций и ссылки на научные профили.&lt;/li&gt;
+&lt;li&gt;Настроить внешний вид сайта через конфигурационные файлы.&lt;/li&gt;
+&lt;li&gt;Разместить сайт на GitHub Pages, Netlify или другом хостинге.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Использование Hugo Academic позволяет исследователям создать современный сайт-портфолио, который объединяет в себе научные работы, образовательные материалы и личные проекты. Такой ресурс становится важным инструментом для формирования академической репутации и налаживания профессиональных связей.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

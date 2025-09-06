@@ -1,76 +1,166 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Hugo Academic CV Theme</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <title>Публикации | Мой сайт</title>
+    <link>https://pavel-fedotkin.github.io/publication/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Публикации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
-      <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Публикации</title>
+      <link>https://pavel-fedotkin.github.io/publication/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my 
- on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+      <title>Облачные вычисления</title>
+      <link>https://pavel-fedotkin.github.io/publication/05/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/publication/05/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Облачные вычисления стали одной из ключевых технологий в развитии информационной инфраструктуры. Они позволяют организациям и отдельным пользователям получать доступ к вычислительным ресурсам, хранилищам данных и программному обеспечению через интернет.&lt;/p&gt;
+&lt;h2 id=&#34;модели-облачных-сервисов&#34;&gt;Модели облачных сервисов&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IaaS (Infrastructure as a Service)&lt;/strong&gt; — предоставляет виртуализированные вычислительные мощности, сети и хранилища.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PaaS (Platform as a Service)&lt;/strong&gt; — предлагает готовую платформу для разработки и развертывания приложений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SaaS (Software as a Service)&lt;/strong&gt; — обеспечивает доступ к программному обеспечению по модели подписки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;преимущества&#34;&gt;Преимущества&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Масштабируемость и гибкость ресурсов.&lt;/li&gt;
+&lt;li&gt;Снижение затрат на инфраструктуру и её обслуживание.&lt;/li&gt;
+&lt;li&gt;Доступность сервисов из любой точки мира.&lt;/li&gt;
+&lt;li&gt;Поддержка коллективной работы и интеграции систем.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;вызовы-и-риски&#34;&gt;Вызовы и риски&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Обеспечение безопасности и конфиденциальности данных.&lt;/li&gt;
+&lt;li&gt;Зависимость от интернет-соединения и провайдера услуг.&lt;/li&gt;
+&lt;li&gt;Вопросы соответствия законодательству и стандартам.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Облачные вычисления трансформируют подход к управлению IT-инфраструктурой и бизнес-процессами. Эта технология продолжает развиваться, открывая новые возможности для науки, образования и коммерческого сектора. Владение знаниями в области облачных решений становится необходимым навыком для специалистов в IT и смежных областях.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+      <title>Создание презентаций</title>
+      <link>https://pavel-fedotkin.github.io/publication/03/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/publication/03/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Презентации являются неотъемлемой частью академической и профессиональной деятельности. Они позволяют наглядно представить результаты исследований, проекты или идеи. Успешная презентация сочетает в себе продуманную структуру, грамотное оформление и ясную подачу материала.&lt;/p&gt;
+&lt;h2 id=&#34;основные-инструменты&#34;&gt;Основные инструменты&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft PowerPoint&lt;/strong&gt; — наиболее распространённый инструмент с широким набором шаблонов и функций.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LibreOffice Impress&lt;/strong&gt; — открытое программное обеспечение, обеспечивающее базовый функционал.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Slides&lt;/strong&gt; — облачный сервис для коллективной работы и быстрого обмена материалами.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX Beamer&lt;/strong&gt; — система для создания академических презентаций с высоким уровнем структурности.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;принципы-эффективной-презентации&#34;&gt;Принципы эффективной презентации&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Структурированность&lt;/strong&gt; — логичное построение с введением, основной частью и заключением.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Лаконичность&lt;/strong&gt; — минимизация текста на слайдах, акцент на ключевых тезисах.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Визуализация&lt;/strong&gt; — использование диаграмм, графиков и изображений для поддержки идей.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Единый стиль&lt;/strong&gt; — согласованность цветов, шрифтов и графических элементов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Практика подачи&lt;/strong&gt; — репетиции выступления и соблюдение тайминга.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;академический-контекст&#34;&gt;Академический контекст&lt;/h2&gt;
+&lt;p&gt;В научной среде особое значение имеет ясность изложения и корректность представления данных. Презентации, подготовленные в LaTeX Beamer, ценятся за строгий стиль и удобство интеграции математических формул, таблиц и ссылок.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Создание презентаций требует как технических навыков, так и умения ясно и убедительно доносить информацию. Выбор инструмента зависит от целей и аудитории, однако в любом случае ключевым фактором остаётся содержание и его качественная подача.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+      <title>Управление версиями</title>
+      <link>https://pavel-fedotkin.github.io/publication/01/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/publication/01/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Управление версиями является фундаментальным инструментом современной разработки программного обеспечения. Системы управления версиями (VCS) позволяют отслеживать изменения в коде, координировать работу команд и сохранять историю проекта.&lt;/p&gt;
+&lt;h2 id=&#34;основные-понятия&#34;&gt;Основные понятия&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Репозиторий&lt;/strong&gt; — хранилище, в котором содержится код и вся история изменений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Коммит&lt;/strong&gt; — зафиксированное изменение в кодовой базе.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ветвление&lt;/strong&gt; — механизм параллельной разработки, позволяющий создавать независимые линии работы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Слияние&lt;/strong&gt; — процесс объединения изменений из разных веток.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;популярные-инструменты&#34;&gt;Популярные инструменты&lt;/h2&gt;
+&lt;p&gt;Наиболее распространённой системой управления версиями сегодня является &lt;strong&gt;Git&lt;/strong&gt;. Она используется в связке с такими платформами, как GitHub, GitLab и Bitbucket. Другие системы, например Subversion (SVN) и Mercurial, встречаются реже, но также применяются в ряде проектов.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества-использования-vcs&#34;&gt;Преимущества использования VCS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Возможность восстановления предыдущих версий проекта.&lt;/li&gt;
+&lt;li&gt;Поддержка командной работы и параллельной разработки.&lt;/li&gt;
+&lt;li&gt;Отслеживание истории изменений и авторства.&lt;/li&gt;
+&lt;li&gt;Упрощение процессов интеграции и развертывания.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Системы управления версиями стали обязательным элементом программной инженерии. Их использование обеспечивает надежность разработки, прозрачность процессов и удобство командного взаимодействия. Владение такими инструментами, как Git, является необходимым навыком для каждого разработчика.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://pavel-fedotkin.github.io/publication/04/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/publication/04/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в проведении вычислительных экспериментов, моделировании и анализе больших объёмов данных. Для решения подобных задач используются специализированные языки, ориентированные на точность вычислений и поддержку математических операций.&lt;/p&gt;
+&lt;h2 id=&#34;основные-языки-научного-программирования&#34;&gt;Основные языки научного программирования&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fortran&lt;/strong&gt; — один из старейших и до сих пор востребованных языков для численных расчётов, особенно в физике и инженерии.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MATLAB&lt;/strong&gt; — мощная среда для численных методов, обработки сигналов и построения графиков.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; — язык и среда, широко используемые в статистике, биоинформатике и анализе данных.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — универсальный язык с обширными библиотеками для научных вычислений (NumPy, SciPy, Matplotlib).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; — современный язык, ориентированный на высокопроизводительные вычисления и удобство синтаксиса.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;особенности-и-преимущества&#34;&gt;Особенности и преимущества&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Поддержка высокоточных вычислений.&lt;/li&gt;
+&lt;li&gt;Возможность работы с большими массивами данных.&lt;/li&gt;
+&lt;li&gt;Развитая экосистема библиотек для моделирования и анализа.&lt;/li&gt;
+&lt;li&gt;Интеграция с системами визуализации и средствами машинного обучения.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;применение&#34;&gt;Применение&lt;/h2&gt;
+&lt;p&gt;Языки научного программирования используются в широком спектре областей:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Физика и химия — моделирование процессов и вычислительная механика.&lt;/li&gt;
+&lt;li&gt;Биология и медицина — обработка биоинформационных данных и анализ изображений.&lt;/li&gt;
+&lt;li&gt;Экономика и социология — статистический анализ и прогнозирование.&lt;/li&gt;
+&lt;li&gt;Машинное обучение и искусственный интеллект — разработка алгоритмов и тестирование моделей.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Знание языков научного программирования является важным навыком для исследователей и инженеров. Эти инструменты позволяют решать задачи высокой сложности и создавать воспроизводимые результаты, что делает их фундаментом современной науки и технологий.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки разметки. LaTeX</title>
+      <link>https://pavel-fedotkin.github.io/publication/02/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/publication/02/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Языки разметки представляют собой специальные системы обозначений, которые определяют структуру и форматирование текста. Они широко применяются для оформления документов, веб-страниц и научных публикаций. Одним из наиболее мощных и универсальных инструментов в этой области является &lt;strong&gt;LaTeX&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;основные-языки-разметки&#34;&gt;Основные языки разметки&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — язык для структурирования и отображения веб-страниц.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — упрощённый язык разметки для быстрого форматирования текстов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;XML&lt;/strong&gt; — универсальный язык для хранения и передачи структурированных данных.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — система вёрстки, ориентированная на создание научных и технических документов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;особенности-latex&#34;&gt;Особенности LaTeX&lt;/h2&gt;
+&lt;p&gt;LaTeX обеспечивает высокое качество типографики и идеально подходит для работы с формулами, таблицами, ссылками и библиографиями. Его возможности позволяют:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Оформлять сложные математические выражения.&lt;/li&gt;
+&lt;li&gt;Автоматизировать создание оглавлений, списков и ссылок.&lt;/li&gt;
+&lt;li&gt;Поддерживать библиографические базы данных через BibTeX.&lt;/li&gt;
+&lt;li&gt;Контролировать макет документа с высокой точностью.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;применение-в-академической-среде&#34;&gt;Применение в академической среде&lt;/h2&gt;
+&lt;p&gt;LaTeX активно используется в университетах, исследовательских институтах и издательствах. Он стал стандартом для подготовки научных статей, диссертаций и технической документации. Многие конференции и журналы требуют предоставления материалов именно в формате LaTeX.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Изучение языков разметки, а особенно LaTeX, открывает широкие возможности для академической и профессиональной деятельности. Владение этим инструментом позволяет создавать документы, отвечающие высоким требованиям к качеству и структуре научных публикаций.&lt;/p&gt;
 </description>
     </item>
     

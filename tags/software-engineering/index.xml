@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineering | Мой сайт</title>
+    <link>https://pavel-fedotkin.github.io/tags/software-engineering/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Engineering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Software Engineering</title>
+      <link>https://pavel-fedotkin.github.io/tags/software-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями</title>
+      <link>https://pavel-fedotkin.github.io/publication/01/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/publication/01/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Управление версиями является фундаментальным инструментом современной разработки программного обеспечения. Системы управления версиями (VCS) позволяют отслеживать изменения в коде, координировать работу команд и сохранять историю проекта.&lt;/p&gt;
+&lt;h2 id=&#34;основные-понятия&#34;&gt;Основные понятия&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Репозиторий&lt;/strong&gt; — хранилище, в котором содержится код и вся история изменений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Коммит&lt;/strong&gt; — зафиксированное изменение в кодовой базе.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ветвление&lt;/strong&gt; — механизм параллельной разработки, позволяющий создавать независимые линии работы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Слияние&lt;/strong&gt; — процесс объединения изменений из разных веток.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;популярные-инструменты&#34;&gt;Популярные инструменты&lt;/h2&gt;
+&lt;p&gt;Наиболее распространённой системой управления версиями сегодня является &lt;strong&gt;Git&lt;/strong&gt;. Она используется в связке с такими платформами, как GitHub, GitLab и Bitbucket. Другие системы, например Subversion (SVN) и Mercurial, встречаются реже, но также применяются в ряде проектов.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества-использования-vcs&#34;&gt;Преимущества использования VCS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Возможность восстановления предыдущих версий проекта.&lt;/li&gt;
+&lt;li&gt;Поддержка командной работы и параллельной разработки.&lt;/li&gt;
+&lt;li&gt;Отслеживание истории изменений и авторства.&lt;/li&gt;
+&lt;li&gt;Упрощение процессов интеграции и развертывания.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Системы управления версиями стали обязательным элементом программной инженерии. Их использование обеспечивает надежность разработки, прозрачность процессов и удобство командного взаимодействия. Владение такими инструментами, как Git, является необходимым навыком для каждого разработчика.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

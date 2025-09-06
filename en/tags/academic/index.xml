@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | My Site</title>
+    <link>https://pavel-fedotkin.github.io/en/tags/academic/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/en/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic</title>
+      <link>https://pavel-fedotkin.github.io/en/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://pavel-fedotkin.github.io/en/project/hugo/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;For modern researchers, it is important not only to publish their work but also to present it in an accessible and well-structured format. One of the convenient tools for creating a personal academic website is &lt;strong&gt;Hugo Academic&lt;/strong&gt;. This framework makes it possible to build a professional portfolio that includes publications, projects, a CV, and a blog.&lt;/p&gt;
+&lt;h2 id=&#34;key-advantages&#34;&gt;Key Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy deployment and configuration.&lt;/li&gt;
+&lt;li&gt;Markdown support for convenient content formatting.&lt;/li&gt;
+&lt;li&gt;Integration with Google Scholar, ORCID, ResearchGate, and other academic services.&lt;/li&gt;
+&lt;li&gt;Wide customization options for design and layout.&lt;/li&gt;
+&lt;li&gt;Support for publishing articles, news, and educational materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;steps-to-create&#34;&gt;Steps to Create&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Hugo and download the Academic theme.&lt;/li&gt;
+&lt;li&gt;Set up the project structure: folders for posts, publications, projects, and pages.&lt;/li&gt;
+&lt;li&gt;Add personal information, a list of publications, and links to academic profiles.&lt;/li&gt;
+&lt;li&gt;Configure the website appearance through configuration files.&lt;/li&gt;
+&lt;li&gt;Deploy the site on GitHub Pages, Netlify, or another hosting platform.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Using Hugo Academic enables researchers to build a modern academic portfolio website that combines scientific work, educational materials, and personal projects. Such a resource becomes an important tool for developing academic reputation and fostering professional connections.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The beginning of September was marked by active academic engagement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Took part in first-year organizational events.&lt;/li&gt;
+&lt;li&gt;Started working on course projects and research assignments.&lt;/li&gt;
+&lt;li&gt;Reviewed current trends in the field of business analytics.&lt;/li&gt;
+&lt;li&gt;Delved deeper into the fundamentals of programming in C++.&lt;/li&gt;
+&lt;li&gt;Planned participation in student activities for the autumn semester.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The week turned out to be eventful both in terms of academic activities and personal development.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Studied the principles of relational database systems.&lt;/li&gt;
+&lt;li&gt;Continued exploring sorting algorithms and their efficiency.&lt;/li&gt;
+&lt;li&gt;Created a plan for the upcoming semester across core subjects.&lt;/li&gt;
+&lt;li&gt;Prepared a brief overview of articles for further study.&lt;/li&gt;
+&lt;li&gt;Worked on a project focused on business process analysis.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week was primarily devoted to preparing for the start of the semester.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Organized lecture notes and structured study materials.&lt;/li&gt;
+&lt;li&gt;Learned new methods of data visualization in Python.&lt;/li&gt;
+&lt;li&gt;Reviewed publications on digital business transformation.&lt;/li&gt;
+&lt;li&gt;Worked on improving academic writing and style.&lt;/li&gt;
+&lt;li&gt;Spent time reading books on management and economics.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The week went by in a calm and steady working rhythm.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewed the basics of algorithm theory and data structures.&lt;/li&gt;
+&lt;li&gt;Practiced solving problems in Python.&lt;/li&gt;
+&lt;li&gt;Started exploring databases and simple SQL queries.&lt;/li&gt;
+&lt;li&gt;Became familiar with academic resources: Google Scholar and ResearchGate.&lt;/li&gt;
+&lt;li&gt;Created a reading plan for academic literature for the autumn semester.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week turned out to be quite productive.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Completed a review of the basic sections of discrete mathematics.&lt;/li&gt;
+&lt;li&gt;Organized notes for the course &amp;ldquo;Introduction to Business Informatics.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Studied the fundamentals of Git and began applying them in academic projects.&lt;/li&gt;
+&lt;li&gt;Read several articles on the digital economy and technological development.&lt;/li&gt;
+&lt;li&gt;Continued improving academic writing skills.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrastructure | My Site</title>
+    <link>https://pavel-fedotkin.github.io/en/tags/infrastructure/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/en/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <description>Infrastructure</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Infrastructure</title>
+      <link>https://pavel-fedotkin.github.io/en/tags/infrastructure/</link>
+    </image>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>https://pavel-fedotkin.github.io/en/publication/05/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Cloud computing has become one of the key technologies in the development of information infrastructure. It enables organizations and individual users to access computing resources, data storage, and software through the internet.&lt;/p&gt;
+&lt;h2 id=&#34;cloud-service-models&#34;&gt;Cloud Service Models&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IaaS (Infrastructure as a Service)&lt;/strong&gt; — provides virtualized computing power, networks, and storage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PaaS (Platform as a Service)&lt;/strong&gt; — offers a ready-to-use platform for application development and deployment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SaaS (Software as a Service)&lt;/strong&gt; — provides access to software on a subscription basis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;advantages&#34;&gt;Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Scalability and flexibility of resources.&lt;/li&gt;
+&lt;li&gt;Reduction of infrastructure and maintenance costs.&lt;/li&gt;
+&lt;li&gt;Availability of services from anywhere in the world.&lt;/li&gt;
+&lt;li&gt;Support for collaboration and system integration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenges-and-risks&#34;&gt;Challenges and Risks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensuring data security and confidentiality.&lt;/li&gt;
+&lt;li&gt;Dependence on internet connectivity and service providers.&lt;/li&gt;
+&lt;li&gt;Compliance with legal regulations and standards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Cloud computing is transforming the approach to IT infrastructure management and business processes. This technology continues to evolve, opening new opportunities for science, education, and the commercial sector. Knowledge of cloud solutions has become an essential skill for IT professionals and related fields.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

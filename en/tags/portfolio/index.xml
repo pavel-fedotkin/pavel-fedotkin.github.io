@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio | My Site</title>
+    <link>https://pavel-fedotkin.github.io/en/tags/portfolio/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/en/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Portfolio</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Portfolio</title>
+      <link>https://pavel-fedotkin.github.io/en/tags/portfolio/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://pavel-fedotkin.github.io/en/project/hugo/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;For modern researchers, it is important not only to publish their work but also to present it in an accessible and well-structured format. One of the convenient tools for creating a personal academic website is &lt;strong&gt;Hugo Academic&lt;/strong&gt;. This framework makes it possible to build a professional portfolio that includes publications, projects, a CV, and a blog.&lt;/p&gt;
+&lt;h2 id=&#34;key-advantages&#34;&gt;Key Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy deployment and configuration.&lt;/li&gt;
+&lt;li&gt;Markdown support for convenient content formatting.&lt;/li&gt;
+&lt;li&gt;Integration with Google Scholar, ORCID, ResearchGate, and other academic services.&lt;/li&gt;
+&lt;li&gt;Wide customization options for design and layout.&lt;/li&gt;
+&lt;li&gt;Support for publishing articles, news, and educational materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;steps-to-create&#34;&gt;Steps to Create&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Hugo and download the Academic theme.&lt;/li&gt;
+&lt;li&gt;Set up the project structure: folders for posts, publications, projects, and pages.&lt;/li&gt;
+&lt;li&gt;Add personal information, a list of publications, and links to academic profiles.&lt;/li&gt;
+&lt;li&gt;Configure the website appearance through configuration files.&lt;/li&gt;
+&lt;li&gt;Deploy the site on GitHub Pages, Netlify, or another hosting platform.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Using Hugo Academic enables researchers to build a modern academic portfolio website that combines scientific work, educational materials, and personal projects. Such a resource becomes an important tool for developing academic reputation and fostering professional connections.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Site</title>
+    <link>https://pavel-fedotkin.github.io/en/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Site</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>My Site</title>
+      <link>https://pavel-fedotkin.github.io/en/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://pavel-fedotkin.github.io/en/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s 
+ feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including 
+ such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>https://pavel-fedotkin.github.io/en/publication/05/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Cloud computing has become one of the key technologies in the development of information infrastructure. It enables organizations and individual users to access computing resources, data storage, and software through the internet.&lt;/p&gt;
+&lt;h2 id=&#34;cloud-service-models&#34;&gt;Cloud Service Models&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IaaS (Infrastructure as a Service)&lt;/strong&gt; — provides virtualized computing power, networks, and storage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PaaS (Platform as a Service)&lt;/strong&gt; — offers a ready-to-use platform for application development and deployment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SaaS (Software as a Service)&lt;/strong&gt; — provides access to software on a subscription basis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;advantages&#34;&gt;Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Scalability and flexibility of resources.&lt;/li&gt;
+&lt;li&gt;Reduction of infrastructure and maintenance costs.&lt;/li&gt;
+&lt;li&gt;Availability of services from anywhere in the world.&lt;/li&gt;
+&lt;li&gt;Support for collaboration and system integration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenges-and-risks&#34;&gt;Challenges and Risks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensuring data security and confidentiality.&lt;/li&gt;
+&lt;li&gt;Dependence on internet connectivity and service providers.&lt;/li&gt;
+&lt;li&gt;Compliance with legal regulations and standards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Cloud computing is transforming the approach to IT infrastructure management and business processes. This technology continues to evolve, opening new opportunities for science, education, and the commercial sector. Knowledge of cloud solutions has become an essential skill for IT professionals and related fields.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Presentations</title>
+      <link>https://pavel-fedotkin.github.io/en/publication/03/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Presentations are an integral part of both academic and professional activity. They allow researchers and professionals to clearly demonstrate results, projects, or ideas. A successful presentation combines a well-structured narrative, proper formatting, and clear delivery.&lt;/p&gt;
+&lt;h2 id=&#34;main-tools&#34;&gt;Main Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft PowerPoint&lt;/strong&gt; — the most widely used tool with an extensive set of templates and features.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LibreOffice Impress&lt;/strong&gt; — open-source software providing basic presentation functionality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Slides&lt;/strong&gt; — a cloud service for collaborative work and quick content sharing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX Beamer&lt;/strong&gt; — a system for creating academic presentations with a high degree of structural clarity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;principles-of-effective-presentations&#34;&gt;Principles of Effective Presentations&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Structure&lt;/strong&gt; — logical organization with an introduction, main part, and conclusion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conciseness&lt;/strong&gt; — minimal text on slides, with a focus on key points.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visualization&lt;/strong&gt; — use of charts, graphs, and images to reinforce ideas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consistency&lt;/strong&gt; — unified colors, fonts, and graphic elements.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Delivery Practice&lt;/strong&gt; — rehearsals and adherence to timing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;academic-context&#34;&gt;Academic Context&lt;/h2&gt;
+&lt;p&gt;In the academic environment, clarity of exposition and accuracy of data presentation are especially important. Presentations prepared in LaTeX Beamer are valued for their strict style and convenient integration of mathematical formulas, tables, and references.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Creating presentations requires both technical skills and the ability to communicate ideas clearly and persuasively. The choice of tool depends on goals and audience, but in all cases, the key factor remains the quality of the content and its delivery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markup Languages. LaTeX</title>
+      <link>https://pavel-fedotkin.github.io/en/publication/02/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Markup languages are specialized systems of notations that define the structure and formatting of text. They are widely used for preparing documents, web pages, and scientific publications. One of the most powerful and versatile tools in this area is &lt;strong&gt;LaTeX&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;main-markup-languages&#34;&gt;Main Markup Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — a language for structuring and displaying web pages.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — a simplified markup language for quick text formatting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;XML&lt;/strong&gt; — a universal language for storing and transferring structured data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — a typesetting system designed for creating scientific and technical documents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;features-of-latex&#34;&gt;Features of LaTeX&lt;/h2&gt;
+&lt;p&gt;LaTeX ensures high-quality typography and is ideally suited for working with formulas, tables, references, and bibliographies. Its capabilities include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Formatting complex mathematical expressions.&lt;/li&gt;
+&lt;li&gt;Automating the creation of tables of contents, lists, and references.&lt;/li&gt;
+&lt;li&gt;Supporting bibliographic databases via BibTeX.&lt;/li&gt;
+&lt;li&gt;Providing precise control over document layout.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;use-in-academia&#34;&gt;Use in Academia&lt;/h2&gt;
+&lt;p&gt;LaTeX is actively used in universities, research institutes, and publishing houses. It has become the standard for preparing scientific papers, dissertations, and technical documentation. Many conferences and journals require submissions in LaTeX format.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Learning markup languages, especially LaTeX, opens broad opportunities for academic and professional work. Mastery of this tool enables the creation of documents that meet the highest standards of quality and structure in scientific publishing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://pavel-fedotkin.github.io/en/publication/04/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Scientific programming plays a crucial role in conducting computational experiments, modeling, and analyzing large volumes of data. To address these tasks, specialized languages are used, designed for computational accuracy and strong support of mathematical operations.&lt;/p&gt;
+&lt;h2 id=&#34;major-scientific-programming-languages&#34;&gt;Major Scientific Programming Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fortran&lt;/strong&gt; — one of the oldest and still widely used languages for numerical computations, particularly in physics and engineering.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MATLAB&lt;/strong&gt; — a powerful environment for numerical methods, signal processing, and visualization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; — a language and environment extensively applied in statistics, bioinformatics, and data analysis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — a versatile language with a rich ecosystem of scientific libraries (NumPy, SciPy, Matplotlib).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; — a modern language focused on high-performance computing with user-friendly syntax.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;features-and-advantages&#34;&gt;Features and Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Support for high-precision computations.&lt;/li&gt;
+&lt;li&gt;Ability to work with large datasets.&lt;/li&gt;
+&lt;li&gt;Extensive ecosystem of libraries for modeling and analysis.&lt;/li&gt;
+&lt;li&gt;Integration with visualization tools and machine learning frameworks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;applications&#34;&gt;Applications&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages are applied across a wide range of fields:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Physics and chemistry — process modeling and computational mechanics.&lt;/li&gt;
+&lt;li&gt;Biology and medicine — processing bioinformatics data and image analysis.&lt;/li&gt;
+&lt;li&gt;Economics and sociology — statistical analysis and forecasting.&lt;/li&gt;
+&lt;li&gt;Machine learning and artificial intelligence — algorithm development and model testing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Knowledge of scientific programming languages is an essential skill for researchers and engineers. These tools enable solving complex problems and producing reproducible results, making them a cornerstone of modern science and technology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control</title>
+      <link>https://pavel-fedotkin.github.io/en/publication/01/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Version control is a fundamental tool in modern software development. Version Control Systems (VCS) allow developers to track changes in code, coordinate teamwork, and maintain a full project history.&lt;/p&gt;
+&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repository&lt;/strong&gt; — a storage location containing the code and its full history of changes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commit&lt;/strong&gt; — a recorded change in the codebase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branching&lt;/strong&gt; — a mechanism of parallel development that enables the creation of independent lines of work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Merging&lt;/strong&gt; — the process of combining changes from different branches.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;popular-tools&#34;&gt;Popular Tools&lt;/h2&gt;
+&lt;p&gt;The most widely used version control system today is &lt;strong&gt;Git&lt;/strong&gt;, often paired with platforms like GitHub, GitLab, and Bitbucket. Other systems, such as Subversion (SVN) and Mercurial, are less common but still used in some projects.&lt;/p&gt;
+&lt;h2 id=&#34;advantages-of-vcs&#34;&gt;Advantages of VCS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ability to restore previous versions of a project.&lt;/li&gt;
+&lt;li&gt;Support for teamwork and parallel development.&lt;/li&gt;
+&lt;li&gt;Tracking of change history and authorship.&lt;/li&gt;
+&lt;li&gt;Simplification of integration and deployment processes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Version control systems have become an essential element of software engineering. Their use ensures development reliability, process transparency, and effective team collaboration. Proficiency with tools like Git is a vital skill for every developer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://pavel-fedotkin.github.io/en/project/hugo/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;For modern researchers, it is important not only to publish their work but also to present it in an accessible and well-structured format. One of the convenient tools for creating a personal academic website is &lt;strong&gt;Hugo Academic&lt;/strong&gt;. This framework makes it possible to build a professional portfolio that includes publications, projects, a CV, and a blog.&lt;/p&gt;
+&lt;h2 id=&#34;key-advantages&#34;&gt;Key Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Easy deployment and configuration.&lt;/li&gt;
+&lt;li&gt;Markdown support for convenient content formatting.&lt;/li&gt;
+&lt;li&gt;Integration with Google Scholar, ORCID, ResearchGate, and other academic services.&lt;/li&gt;
+&lt;li&gt;Wide customization options for design and layout.&lt;/li&gt;
+&lt;li&gt;Support for publishing articles, news, and educational materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;steps-to-create&#34;&gt;Steps to Create&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Hugo and download the Academic theme.&lt;/li&gt;
+&lt;li&gt;Set up the project structure: folders for posts, publications, projects, and pages.&lt;/li&gt;
+&lt;li&gt;Add personal information, a list of publications, and links to academic profiles.&lt;/li&gt;
+&lt;li&gt;Configure the website appearance through configuration files.&lt;/li&gt;
+&lt;li&gt;Deploy the site on GitHub Pages, Netlify, or another hosting platform.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Using Hugo Academic enables researchers to build a modern academic portfolio website that combines scientific work, educational materials, and personal projects. Such a resource becomes an important tool for developing academic reputation and fostering professional connections.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The beginning of September was marked by active academic engagement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Took part in first-year organizational events.&lt;/li&gt;
+&lt;li&gt;Started working on course projects and research assignments.&lt;/li&gt;
+&lt;li&gt;Reviewed current trends in the field of business analytics.&lt;/li&gt;
+&lt;li&gt;Delved deeper into the fundamentals of programming in C++.&lt;/li&gt;
+&lt;li&gt;Planned participation in student activities for the autumn semester.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The week turned out to be eventful both in terms of academic activities and personal development.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Studied the principles of relational database systems.&lt;/li&gt;
+&lt;li&gt;Continued exploring sorting algorithms and their efficiency.&lt;/li&gt;
+&lt;li&gt;Created a plan for the upcoming semester across core subjects.&lt;/li&gt;
+&lt;li&gt;Prepared a brief overview of articles for further study.&lt;/li&gt;
+&lt;li&gt;Worked on a project focused on business process analysis.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week was primarily devoted to preparing for the start of the semester.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Organized lecture notes and structured study materials.&lt;/li&gt;
+&lt;li&gt;Learned new methods of data visualization in Python.&lt;/li&gt;
+&lt;li&gt;Reviewed publications on digital business transformation.&lt;/li&gt;
+&lt;li&gt;Worked on improving academic writing and style.&lt;/li&gt;
+&lt;li&gt;Spent time reading books on management and economics.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The week went by in a calm and steady working rhythm.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewed the basics of algorithm theory and data structures.&lt;/li&gt;
+&lt;li&gt;Practiced solving problems in Python.&lt;/li&gt;
+&lt;li&gt;Started exploring databases and simple SQL queries.&lt;/li&gt;
+&lt;li&gt;Became familiar with academic resources: Google Scholar and ResearchGate.&lt;/li&gt;
+&lt;li&gt;Created a reading plan for academic literature for the autumn semester.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week turned out to be quite productive.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Completed a review of the basic sections of discrete mathematics.&lt;/li&gt;
+&lt;li&gt;Organized notes for the course &amp;ldquo;Introduction to Business Informatics.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Studied the fundamentals of Git and began applying them in academic projects.&lt;/li&gt;
+&lt;li&gt;Read several articles on the digital economy and technological development.&lt;/li&gt;
+&lt;li&gt;Continued improving academic writing skills.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://pavel-fedotkin.github.io/en/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://pavel-fedotkin.github.io/en/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn JavaScript</title>
+      <link>https://pavel-fedotkin.github.io/en/teaching/js/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/teaching/js/</guid>
+      <description>&lt;p&gt;
+ is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili id=&amp;quot;BV1WV4y1r7DF&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your 
+, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
+&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Try it out:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
+&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; spoiler text=&amp;#34;👉 Click to view the solution&amp;#34; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;We wrap the LaTeX math in the Hugo Blox &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$
+.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt; Python&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

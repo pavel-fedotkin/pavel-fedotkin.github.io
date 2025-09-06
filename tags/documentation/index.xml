@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation | Мой сайт</title>
+    <link>https://pavel-fedotkin.github.io/tags/documentation/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Documentation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Documentation</title>
+      <link>https://pavel-fedotkin.github.io/tags/documentation/</link>
+    </image>
+    
+    <item>
+      <title>Языки разметки. LaTeX</title>
+      <link>https://pavel-fedotkin.github.io/publication/02/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/publication/02/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Языки разметки представляют собой специальные системы обозначений, которые определяют структуру и форматирование текста. Они широко применяются для оформления документов, веб-страниц и научных публикаций. Одним из наиболее мощных и универсальных инструментов в этой области является &lt;strong&gt;LaTeX&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;основные-языки-разметки&#34;&gt;Основные языки разметки&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — язык для структурирования и отображения веб-страниц.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — упрощённый язык разметки для быстрого форматирования текстов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;XML&lt;/strong&gt; — универсальный язык для хранения и передачи структурированных данных.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — система вёрстки, ориентированная на создание научных и технических документов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;особенности-latex&#34;&gt;Особенности LaTeX&lt;/h2&gt;
+&lt;p&gt;LaTeX обеспечивает высокое качество типографики и идеально подходит для работы с формулами, таблицами, ссылками и библиографиями. Его возможности позволяют:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Оформлять сложные математические выражения.&lt;/li&gt;
+&lt;li&gt;Автоматизировать создание оглавлений, списков и ссылок.&lt;/li&gt;
+&lt;li&gt;Поддерживать библиографические базы данных через BibTeX.&lt;/li&gt;
+&lt;li&gt;Контролировать макет документа с высокой точностью.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;применение-в-академической-среде&#34;&gt;Применение в академической среде&lt;/h2&gt;
+&lt;p&gt;LaTeX активно используется в университетах, исследовательских институтах и издательствах. Он стал стандартом для подготовки научных статей, диссертаций и технической документации. Многие конференции и журналы требуют предоставления материалов именно в формате LaTeX.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Изучение языков разметки, а особенно LaTeX, открывает широкие возможности для академической и профессиональной деятельности. Владение этим инструментом позволяет создавать документы, отвечающие высоким требованиям к качеству и структуре научных публикаций.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

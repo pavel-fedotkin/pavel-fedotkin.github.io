@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations | My Site</title>
+    <link>https://pavel-fedotkin.github.io/en/tags/presentations/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/en/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Presentations</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Presentations</title>
+      <link>https://pavel-fedotkin.github.io/en/tags/presentations/</link>
+    </image>
+    
+    <item>
+      <title>Creating Presentations</title>
+      <link>https://pavel-fedotkin.github.io/en/publication/03/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Presentations are an integral part of both academic and professional activity. They allow researchers and professionals to clearly demonstrate results, projects, or ideas. A successful presentation combines a well-structured narrative, proper formatting, and clear delivery.&lt;/p&gt;
+&lt;h2 id=&#34;main-tools&#34;&gt;Main Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft PowerPoint&lt;/strong&gt; — the most widely used tool with an extensive set of templates and features.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LibreOffice Impress&lt;/strong&gt; — open-source software providing basic presentation functionality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Slides&lt;/strong&gt; — a cloud service for collaborative work and quick content sharing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX Beamer&lt;/strong&gt; — a system for creating academic presentations with a high degree of structural clarity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;principles-of-effective-presentations&#34;&gt;Principles of Effective Presentations&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Structure&lt;/strong&gt; — logical organization with an introduction, main part, and conclusion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conciseness&lt;/strong&gt; — minimal text on slides, with a focus on key points.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visualization&lt;/strong&gt; — use of charts, graphs, and images to reinforce ideas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consistency&lt;/strong&gt; — unified colors, fonts, and graphic elements.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Delivery Practice&lt;/strong&gt; — rehearsals and adherence to timing.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;academic-context&#34;&gt;Academic Context&lt;/h2&gt;
+&lt;p&gt;In the academic environment, clarity of exposition and accuracy of data presentation are especially important. Presentations prepared in LaTeX Beamer are valued for their strict style and convenient integration of mathematical formulas, tables, and references.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Creating presentations requires both technical skills and the ability to communicate ideas clearly and persuasively. The choice of tool depends on goals and audience, but in all cases, the key factor remains the quality of the content and its delivery.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

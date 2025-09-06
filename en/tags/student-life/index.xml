@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Life | My Site</title>
+    <link>https://pavel-fedotkin.github.io/en/tags/student-life/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/en/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Life</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Student Life</title>
+      <link>https://pavel-fedotkin.github.io/en/tags/student-life/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The beginning of September was marked by active academic engagement.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Took part in first-year organizational events.&lt;/li&gt;
+&lt;li&gt;Started working on course projects and research assignments.&lt;/li&gt;
+&lt;li&gt;Reviewed current trends in the field of business analytics.&lt;/li&gt;
+&lt;li&gt;Delved deeper into the fundamentals of programming in C++.&lt;/li&gt;
+&lt;li&gt;Planned participation in student activities for the autumn semester.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The week turned out to be eventful both in terms of academic activities and personal development.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Studied the principles of relational database systems.&lt;/li&gt;
+&lt;li&gt;Continued exploring sorting algorithms and their efficiency.&lt;/li&gt;
+&lt;li&gt;Created a plan for the upcoming semester across core subjects.&lt;/li&gt;
+&lt;li&gt;Prepared a brief overview of articles for further study.&lt;/li&gt;
+&lt;li&gt;Worked on a project focused on business process analysis.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week was primarily devoted to preparing for the start of the semester.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Organized lecture notes and structured study materials.&lt;/li&gt;
+&lt;li&gt;Learned new methods of data visualization in Python.&lt;/li&gt;
+&lt;li&gt;Reviewed publications on digital business transformation.&lt;/li&gt;
+&lt;li&gt;Worked on improving academic writing and style.&lt;/li&gt;
+&lt;li&gt;Spent time reading books on management and economics.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The week went by in a calm and steady working rhythm.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewed the basics of algorithm theory and data structures.&lt;/li&gt;
+&lt;li&gt;Practiced solving problems in Python.&lt;/li&gt;
+&lt;li&gt;Started exploring databases and simple SQL queries.&lt;/li&gt;
+&lt;li&gt;Became familiar with academic resources: Google Scholar and ResearchGate.&lt;/li&gt;
+&lt;li&gt;Created a reading plan for academic literature for the autumn semester.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://pavel-fedotkin.github.io/en/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week turned out to be quite productive.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Completed a review of the basic sections of discrete mathematics.&lt;/li&gt;
+&lt;li&gt;Organized notes for the course &amp;ldquo;Introduction to Business Informatics.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Studied the fundamentals of Git and began applying them in academic projects.&lt;/li&gt;
+&lt;li&gt;Read several articles on the digital economy and technological development.&lt;/li&gt;
+&lt;li&gt;Continued improving academic writing skills.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

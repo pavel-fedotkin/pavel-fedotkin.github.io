@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaTeX | My Site</title>
+    <link>https://pavel-fedotkin.github.io/en/tags/latex/</link>
+      <atom:link href="https://pavel-fedotkin.github.io/en/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    <description>LaTeX</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavel-fedotkin.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>LaTeX</title>
+      <link>https://pavel-fedotkin.github.io/en/tags/latex/</link>
+    </image>
+    
+    <item>
+      <title>Markup Languages. LaTeX</title>
+      <link>https://pavel-fedotkin.github.io/en/publication/02/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pavel-fedotkin.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Markup languages are specialized systems of notations that define the structure and formatting of text. They are widely used for preparing documents, web pages, and scientific publications. One of the most powerful and versatile tools in this area is &lt;strong&gt;LaTeX&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;main-markup-languages&#34;&gt;Main Markup Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — a language for structuring and displaying web pages.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — a simplified markup language for quick text formatting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;XML&lt;/strong&gt; — a universal language for storing and transferring structured data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — a typesetting system designed for creating scientific and technical documents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;features-of-latex&#34;&gt;Features of LaTeX&lt;/h2&gt;
+&lt;p&gt;LaTeX ensures high-quality typography and is ideally suited for working with formulas, tables, references, and bibliographies. Its capabilities include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Formatting complex mathematical expressions.&lt;/li&gt;
+&lt;li&gt;Automating the creation of tables of contents, lists, and references.&lt;/li&gt;
+&lt;li&gt;Supporting bibliographic databases via BibTeX.&lt;/li&gt;
+&lt;li&gt;Providing precise control over document layout.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;use-in-academia&#34;&gt;Use in Academia&lt;/h2&gt;
+&lt;p&gt;LaTeX is actively used in universities, research institutes, and publishing houses. It has become the standard for preparing scientific papers, dissertations, and technical documentation. Many conferences and journals require submissions in LaTeX format.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Learning markup languages, especially LaTeX, opens broad opportunities for academic and professional work. Mastery of this tool enables the creation of documents that meet the highest standards of quality and structure in scientific publishing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
